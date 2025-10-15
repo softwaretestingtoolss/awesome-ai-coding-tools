@@ -240,6 +240,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## 🧪 Testing & QA Tools
 - **[Checksum AI](https://checksum.ai)**: AI-driven tool for automated software testing and validation.
+- **[Cotester Test Agent by TestGrid](https://testgrid.io/cotester)**: Enterprise-grade AI testing agent for automated test creation, execution, and maintenance of enterprise applications.
 - **[OctoMind](https://octomind.dev)**: AI-powered platform for end-to-end testing automation.
 - **[KushoAI](https://kusho.ai/)**: AI-driven API testing tool for comprehensive QA automation.
 - **[Test Gru](https://gru.ai/home#test-gru)**: AI-powered testing assistant for streamlined QA workflows.
